@@ -26,7 +26,7 @@
     <img src="https://logos-download.com/wp-content/uploads/2016/09/Sass_logo.png" width="50">&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="50">&nbsp;
     <img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" width="50">&nbsp;
-    <img src=" https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" width="50">&nbsp;
+    <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" width="50">&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="50">&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/768px-Vue.js_Logo_2.svg.png?20170919082558" width="50">&nbsp;
     </div>
@@ -38,10 +38,8 @@
 |-------------------|-------------|
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 ---
-
-
 
 
