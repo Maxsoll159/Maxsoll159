@@ -34,13 +34,14 @@
 
 ---
 
-
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Maxsoll159&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
-
-| <img src="https://camo.githubusercontent.com/386e1a6cd3d81f99bbe5584123517770aaaf403dce6bd4077bc2f0ecf18bfc29/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d7472616e73706172656e74" />      | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
+|  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Maxsoll159&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)    | <img src="https://camo.githubusercontent.com/386e1a6cd3d81f99bbe5584123517770aaaf403dce6bd4077bc2f0ecf18bfc29/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d7472616e73706172656e74" />  |
 |-------------------|-------------|
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+
+
 
