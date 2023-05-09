@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media4.giphy.com/media/12PLLVj8yWTPgI/giphy.gif?cid=ecf05e476gek7cuew4f1glqz7jctuugw5jrhd1k9gbuug1fz&rid=giphy.gif&ct=g" width="200" />
     <h1><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="40"> Welcome! I'm <strong>Martin Rios !</strong></h1>
-    <p align="justify">Hello my name is Martin Rios Tineo, I am an aspiring web developer. I have knowledge in React, css, javascript, firebase, sass, vue, bootstrap, tailwind, mysql and sql. I hope to absorb knowledge 🧠, gain experience 🏭, collaborate 🤝, grow 🌱, improve my skills and build impressive websites through my work! I am currently developing personal projects to improve my portfolio. </p>
+    <p align="justify">Hello my name is Martin Rios Tineo, I am an web developer. I have knowledge in React, css, javascript, firebase, sass, vue, bootstrap, tailwind, mysql and sql. I hope to absorb knowledge 🧠, gain experience 🏭, collaborate 🤝, grow 🌱, improve my skills and build impressive websites through my work! I am currently developing personal projects to improve my portfolio. </p>
     <img align="center" src="https://img.shields.io/badge/Profile%20views-322-blue">
 </div>
 
